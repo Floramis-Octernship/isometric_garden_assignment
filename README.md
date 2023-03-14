@@ -27,7 +27,7 @@ We are looking for a Unity developer to join our core engineering team. As a Uni
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 31 March 2023  |
+| Assignment Deadline  | 7 April 2023  |
 | Octernship Duration  | 3-6 Months  |
 | Monthly Stipend  | $500 USD  |
 
